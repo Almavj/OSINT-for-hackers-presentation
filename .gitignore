@@ -1,0 +1,29 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LibreOffice lock/temp files (deck is authored in PowerPoint)
+.~lock.OSINT_for_Hackers.pptx#
+.~lock.*.pptx#
+
+# Exported PDFs are generated artifacts — regenerate with:
+#   soffice --headless --convert-to pdf OSINT_for_Hackers.pptx
+# (OSINT_for_Hackers.pdf is committed on purpose so GitHub can preview it)
+
+# Local working material not part of this repository
+CSK-mentorship.pdf
+cybersec-schedule.jpeg
+Osint.webp
+2-4-630x360.webp
+images/
