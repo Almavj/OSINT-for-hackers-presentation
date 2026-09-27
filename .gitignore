@@ -20,10 +20,3 @@ venv/
 # Exported PDFs are generated artifacts — regenerate with:
 #   soffice --headless --convert-to pdf OSINT_for_Hackers.pptx
 # (OSINT_for_Hackers.pdf is committed on purpose so GitHub can preview it)
-
-# Local working material not part of this repository
-CSK-mentorship.pdf
-cybersec-schedule.jpeg
-Osint.webp
-2-4-630x360.webp
-images/
